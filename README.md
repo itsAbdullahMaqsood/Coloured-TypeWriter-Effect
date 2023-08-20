@@ -1,5 +1,5 @@
 <h1 align="center" >Coloured TypeWriter Effect in <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></h1>
-<p>Welcome to the Tic Tac Toe game repository 👋.</p>
+<p>Welcome to the repository 👋.</p>
 <p>This is an Appealing console-based TypeWriter Effect that is written using C++.</p>
 
 <br>
