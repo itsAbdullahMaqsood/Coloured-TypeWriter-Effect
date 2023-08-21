@@ -58,10 +58,10 @@ int main()
 	show(b);
 	Sleep(1000);
 	emp(b);
-	show(c+" ");
+	show(c);
 	Sleep(1000);
 	emp(c);
-	show(d+"  ");
+	show(d);
 	Sleep(1000);
 
 	
