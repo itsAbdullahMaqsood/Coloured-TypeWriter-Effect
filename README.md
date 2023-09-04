@@ -3,7 +3,10 @@
 <p>This is an Appealing console-based TypeWriter Effect that is written using C++.</p>
 
 <br>
-<img src="project files/colored typewriter.gif" alt="preview" width="700">
+
+https://github.com/itsAbdullahMaqsood/Coloured-TypeWriter-Effect/assets/113769634/86670430-1229-4a38-885e-42764d0defec
+
+
 
 <h2>Feature</h2>
 <ul>
